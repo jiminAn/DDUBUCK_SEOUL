@@ -7,3 +7,10 @@ Collaborator  안지민, 이승준, 안선정, 임재영
 
 
 ![이미지](./app_explain/슬라이드1.PNG)
+![이미지](./app_explain/슬라이드2.PNG)
+![이미지](./app_explain/슬라이드3.PNG)
+![이미지](./app_explain/슬라이드4.PNG)
+![이미지](./app_explain/슬라이드5.PNG)
+![이미지](./app_explain/슬라이드6.PNG)
+![이미지](./app_explain/슬라이드7.PNG)
+![이미지](./app_explain/슬라이드8.PNG)
