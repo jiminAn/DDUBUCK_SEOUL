@@ -1,4 +1,4 @@
-# DDUBUCK_SEOUL
+# DDUBUCK_SEOUL 2019 서울시 앱 개발 공모전 출품작
 DDUBUCK_SEOUL made by INYRO
 
 Released in 2019-09-29
