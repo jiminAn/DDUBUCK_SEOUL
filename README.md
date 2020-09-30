@@ -3,7 +3,11 @@ DDUBUCK_SEOUL made by INYRO
 
 Released in 2019-09-29
 
-Collaborator  안지민, 이승준, 안선정, 임재영
+### contributor
+* [jiminAn](https://github.com/jiminAn)
+* [Jaeyoung Lim](https://github.com/limjustin)      
+* [Rudy-009](https://github.com/Rudy-009)   
+* [sja3410](https://github.com/sja3410)   
 
 
 ![이미지](./app_explain/슬라이드1.PNG)
